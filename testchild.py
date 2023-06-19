@@ -1,2 +1,0 @@
-name = taylor
-print (name)
